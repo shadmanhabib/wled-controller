@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S2A
+D 50V 2A General Purpose Rectifier Diode, SMA
+K diode
+$ENDCMP
+#
+$CMP S8050_SMD
+D 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92
+K S8050 NPN Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8050.pdf
+$ENDCMP
+#
+#End Doc Library
